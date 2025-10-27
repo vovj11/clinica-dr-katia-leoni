@@ -68,6 +68,7 @@ body {
   height: 120px;
   object-fit: contain; /* garante proporção correta */
   object-position: center; /* centraliza dentro do círculo */
+  /* color: #0F6160; */
 }
 
 #categorias {
