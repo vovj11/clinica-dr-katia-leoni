@@ -58,7 +58,7 @@ body {
   }
 }
 
-#logo {
+/* #logo {
   display: block;
   margin: 0 auto; /* centraliza horizontalmente */
   background: linear-gradient(135deg, #8ee3b0, #5ec8a0, #3da4a3);
@@ -69,7 +69,7 @@ body {
   object-fit: contain; /* garante proporção correta */
   object-position: center; /* centraliza dentro do círculo */
   /* color: #0F6160; */
-}
+} */
 
 #categorias {
   overflow-x: auto;
