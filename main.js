@@ -178,7 +178,7 @@ function renderCatalog(produtos, categorias) {
 
     const endereco = document.getElementById("endereco");
     if (config.endereco && config.endereco.trim() !== "") {
-      endereco.innerHTML = `<p class="text-sm text-[${config.cor_nome_loja}]"><i class="ph ph-map-pin"></i> ${config.endereco}</p>`;
+      endereco.innerHTML = `<p class="text-sm text-[${config.cor_nome_loja}]"><i class="ph ph-map-pin ph-bold"></i> ${config.endereco}</p>`;
     }
   });
 }
