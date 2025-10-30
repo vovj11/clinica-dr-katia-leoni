@@ -117,8 +117,7 @@ function renderCatalog(produtos, categorias) {
           "bg-white p-5 shadow-md rounded-xl flex flex-col justify-between hover:shadow-xl transition";
 
         // 🌟 NOVO: Lógica Condicional
-        const isSpecialProduct =
-          produto.nome === "Preciso de ajuda para saber qual a melhor terapia";
+        const isSpecialProduct = produto.nome === "Tenho outras dúvidas";
 
         // 🌟 NOVO: Determina o HTML do preço
         let precoHtml = "";
