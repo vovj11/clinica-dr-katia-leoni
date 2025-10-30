@@ -1,10 +1,10 @@
 const urls = {
   itens:
-    "https://docs.google.com/spreadsheets/d/e/2PACX-1vSzXvin57vc5A3pBGfuES6kwN_rom7fi7cVWo37BOGrT1ThGrNut-YVTYckJLnBruloqXwbW6TGSdQu/pub?gid=0&single=true&output=csv",
+    "https://docs.google.com/spreadsheets/d/e/2PACX-1vRAdXYx0JnjcUX8ySPoc1kfKMHbNa8-fDJ15sFgACRvCVScvuudbhs4gggjQp-ygd2rBqhixCqRKVxm/pub?gid=0&single=true&output=csv",
   config:
-    "https://docs.google.com/spreadsheets/d/e/2PACX-1vSzXvin57vc5A3pBGfuES6kwN_rom7fi7cVWo37BOGrT1ThGrNut-YVTYckJLnBruloqXwbW6TGSdQu/pub?gid=1924474484&single=true&output=csv",
+    "https://docs.google.com/spreadsheets/d/e/2PACX-1vRAdXYx0JnjcUX8ySPoc1kfKMHbNa8-fDJ15sFgACRvCVScvuudbhs4gggjQp-ygd2rBqhixCqRKVxm/pub?gid=1924474484&single=true&output=csv",
   categorias:
-    "https://docs.google.com/spreadsheets/d/e/2PACX-1vSzXvin57vc5A3pBGfuES6kwN_rom7fi7cVWo37BOGrT1ThGrNut-YVTYckJLnBruloqXwbW6TGSdQu/pub?gid=1795591214&single=true&output=csv",
+    "https://docs.google.com/spreadsheets/d/e/2PACX-1vRAdXYx0JnjcUX8ySPoc1kfKMHbNa8-fDJ15sFgACRvCVScvuudbhs4gggjQp-ygd2rBqhixCqRKVxm/pub?gid=1795591214&single=true&output=csv",
 };
 
 // 🌟 NOVO: Caminho base para imagens locais
